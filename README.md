@@ -1,5 +1,7 @@
 # customComponentKotlin
 
+<img width="475" alt="Capture d’écran 2020-03-22 à 09 43 15" src="https://user-images.githubusercontent.com/36171154/77245801-ab302080-6c21-11ea-8303-c9d8f6515936.png">
+
 Le but du TP est de créer un custom component qui contiendra 2 choses :
 * une imageView avec des dimensions fixes
 * un editText
