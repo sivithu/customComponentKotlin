@@ -11,7 +11,8 @@ Je dois pouvoir paramétrer avec des attributs custom :
 * le texte de l’EditText, via directement une string ou une resource 
 
 Le projet final doit contenir un activity avec votre custom component dans son layout.
-``android
+
+```android
 <com.maruani.esgi.summaryapplication.module.customview.CustomComponent
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
